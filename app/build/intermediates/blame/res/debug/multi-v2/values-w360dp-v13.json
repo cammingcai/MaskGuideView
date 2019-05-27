@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android studio\\GuideView-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\camming\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\50f4633dc32074b4ef718dc0d4f0b796\\res\\values-w360dp\\values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endColumns": "54",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
